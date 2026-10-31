@@ -28,7 +28,10 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 3. Restart or re-inject Discord via Vencord Installer.
 4. Enable **Badge Creator** in Vencord Settings -> Plugins.
 
-https://cdn.discordapp.com/attachments/1565469391259435038/1566198267610538146/image.png?ex=6ae7ab4d&is=6ae659cd&hm=8d2ffbdf01ef01c20c83e915586705de2bc8d701de405bd11e693d63b607a6c3&
+<p align="center">
+  <img src="assets/image.png" width="700">
+</p>
+
 
 ## License
 
