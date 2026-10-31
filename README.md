@@ -32,6 +32,10 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
   <img src="image.png" width="700">
 </p>
 
+<p align="center">
+  <img src="image2.png" width="700">
+</p>
+
 
 ## License
 
