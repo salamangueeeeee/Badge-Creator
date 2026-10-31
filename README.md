@@ -29,7 +29,7 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 4. Enable **Badge Creator** in Vencord Settings -> Plugins.
 
 <p align="center">
-  <img src="assets/image.png" width="700">
+  <img src="image.png" width="700">
 </p>
 
 
