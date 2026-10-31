@@ -19,7 +19,7 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 1. Clone or copy this folder into your Vencord `src/userplugins/` directory:
    ```bash
    cd Vencord/src/userplugins
-   git clone <YOUR_REPO_URL> MessageDecoration
+   git clone https://github.com/salamangueeeeee/Badge-Creator.git
    ```
 2. Build Vencord:
    ```bash
@@ -31,3 +31,4 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 ## License
 
 GPL-3.0
+
