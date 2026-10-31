@@ -7,7 +7,7 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 - **Custom Badge Designer**: Create up to 8 badges with customizable text, colors, gradient backgrounds, borders, and glow effects.
 - **Animated Badges**: Smooth wave gradient animations and pulse effects.
 - **Name Customization**: Add text glow and animation presets (pulse, rainbow, shine) to your username.
-- **Global Synchronization**: Cloudflare Worker + KV storage backend (`https://messagedeco.salamangue80.workers.dev`) for real-time syncing between you and your friends.
+- **Global Synchronization**: Cloudflare Worker + KV storage backend for real-time syncing between you and your friends.
 - **Voice Radar-style Dark UI**: Sleek, clean modal editor with live preview in chat style.
 - **Context Menus & Commands**:
   - Right-click any user -> "Open in Badge Creator"
