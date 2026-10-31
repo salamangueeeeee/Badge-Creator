@@ -33,7 +33,7 @@ A Vencord userplugin that lets you design, customize, animate, and sync custom c
 </p>
 
 <p align="center">
-  <img src="image3.png" width="700">
+  <img src="image3.png" width="500">
 </p>
 
 
